@@ -25,3 +25,6 @@ dist-ssr
 
 # Generated ACB files
 *.acb
+
+# MCP generated files (code2mcp)
+generated/

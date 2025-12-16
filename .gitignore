@@ -53,3 +53,19 @@ Thumbs.db
 *.key
 config/secrets.json
 credentials.json
+
+# CAM (Continuous Architectural Memory)
+.claude/cam/vectors.db
+.claude/cam/metadata.db
+.claude/cam/graph.db
+.claude/cam/operations.log
+.claude/cam/venv/
+.claude/cam/*.pyc
+.claude/cam/__pycache__/
+.claude/cam/.backup/
+
+
+# .ai/ temporary files
+.ai/*.tmp
+.claude
+.ai.backup/
